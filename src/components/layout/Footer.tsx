@@ -12,7 +12,7 @@ export default function Footer() {
         </div>
         <div className="flex gap-4">
           <Button variant="ghost" size="icon" asChild>
-            <a href="https://github.com/yourusername" target="_blank" rel="noreferrer">
+            <a href="https://github.com/MovinduLochana" target="_blank" rel="noreferrer">
               <Github className="h-5 w-5" />
               <span className="sr-only">GitHub</span>
             </a>

@@ -76,8 +76,8 @@ export default function Contact() {
                 </div>
                 <div>
                   <h3 className="font-medium">Email</h3>
-                  <p className="text-sm text-muted-foreground mt-1">youremail@example.com</p>
-                  <a href="mailto:youremail@example.com" className="text-sm text-primary hover:underline mt-1 inline-block">
+                  <p className="text-sm text-muted-foreground mt-1">movindu@github.com</p>
+                  <a href="mailto:movindu@github.com" className="text-sm text-primary hover:underline mt-1 inline-block">
                     Send an email
                   </a>
                 </div>
@@ -91,8 +91,8 @@ export default function Contact() {
                 </div>
                 <div>
                   <h3 className="font-medium">Phone</h3>
-                  <p className="text-sm text-muted-foreground mt-1">+1 (555) 123-4567</p>
-                  <a href="tel:+15551234567" className="text-sm text-primary hover:underline mt-1 inline-block">
+                  <p className="text-sm text-muted-foreground mt-1">+94 (70) 123-4567</p>
+                  <a href="tel:+94701234567" className="text-sm text-primary hover:underline mt-1 inline-block">
                     Give me a call
                   </a>
                 </div>
@@ -106,8 +106,8 @@ export default function Contact() {
                 </div>
                 <div>
                   <h3 className="font-medium">Location</h3>
-                  <p className="text-sm text-muted-foreground mt-1">San Francisco, CA</p>
-                  <p className="text-sm text-muted-foreground">United States</p>
+                  <p className="text-sm text-muted-foreground mt-1">Colombo</p>
+                  <p className="text-sm text-muted-foreground">Sri Lanka</p>
                 </div>
               </CardContent>
             </Card>
