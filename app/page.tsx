@@ -20,7 +20,7 @@ export default function Home() {
       <main>
         <section id="hero">
           <Hero />
-<p>
+{/* <p>
 
 My background and attitude towards learning software changes me from others
 When you look at my CV there are so many skills that would be questionable if I have truly understood them or I just skimmed through.
@@ -33,7 +33,7 @@ Always be careful to write performance code, even if it cost clarity and be expl
 These rules always help me write efficient code, these reasons makes me unique
 
 
-</p>
+</p> */}
         </section>
         
         <section id="about">
